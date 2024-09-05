@@ -1,39 +1,25 @@
-Quando eu digo que deixei de te amar
-É porque eu te amo
-Quando eu digo que não quero mais você
-É porque eu te quero
-Eu tenho medo de te dar meu coração
-E confessar que eu estou em tuas mãos
-Mas não posso imaginar
-O que vai ser de mim
-Se eu te perder um dia
+# PharmaStock - Controle de Estoque Inteligente para Farmácias
 
-Eu me afasto e me defendo de você
-Mas depois me entrego
-Faço tipo, falo coisas que eu não sou
-Mas depois eu nego
-Mas a verdade
-É que eu sou louco por você
-E tenho medo de pensar em te perder
-Eu preciso aceitar que não dá mais
-Pra separar as nossas vidas
+## Descrição do Projeto
 
-E nessa loucura de dizer que não te quero
-Vou negando as aparências
-Disfarçando as evidências
-Mas pra que viver fingindo
-Se eu não posso enganar meu coração?
-Eu sei que te amo!
+O **PharmaStock** é uma aplicação simples de controle de estoque voltada para farmácias. O sistema permite que os funcionários cadastrem e gerenciem a entrada e saída de medicamentos, mantendo o controle eficiente de todos os produtos armazenados. Além disso, a aplicação oferece relatórios preditivos que indicam o esgotamento de medicamentos e produtos próximos do vencimento, auxiliando no planejamento de compras e evitando desperdícios.
 
-Chega de mentiras
-De negar o meu desejo
-Eu te quero mais que tudo
-Eu preciso do seu beijo
-Eu entrego a minha vida
-Pra você fazer o que quiser de mim
-Só quero ouvir você dizer que sim!
+## Funcionalidades Principais
 
-Diz que é verdade, que tem saudade
-Que ainda você pensa muito em mim
-Diz que é verdade, que tem saudade
-Que ainda você quer viver pra mim
+- Cadastro de medicamentos com dados como nome, fabricante, lote, data de validade e quantidade.
+- Controle de entrada e saída de medicamentos no estoque.
+- Geração de relatórios detalhados sobre o status do estoque.
+- Predições automáticas sobre o esgotamento de medicamentos e produtos próximos do vencimento.
+
+## Cronograma de Entregas
+
+- **Entrega 1**: 06/09/2024 - Apresentação da ideia, justificativa, escopo e plano de trabalho.
+- **Entrega 2**: 23/10/2024 - Publicação de vídeo no YouTube com a apresentação do protótipo da aplicação, demonstrando a viabilidade técnica.
+- **Entrega 3**: 27/11/2024 - Publicação de vídeo no YouTube com a apresentação do MVP final, incluindo documentação e código fonte.
+
+## Equipe
+
+- Ewerton
+- Maria Eduarda Carlete
+- Jhean Pazzeto Lozada
+- Lucas Fraga de Andrade
