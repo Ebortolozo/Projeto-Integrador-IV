@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, url_for
 from configuration import configure_all
 
 # Deixar inicialização no Inicio
