@@ -19,7 +19,7 @@ O **PharmaStock** é uma aplicação simples de controle de estoque voltada para
 
 ## Equipe
 
-- Ewerton
-- Maria Eduarda Carlete
-- Jhean Pazzeto Lozada
+- Ewerton Bortolozo Nunes Junior
+- Maria Eduarda Andre Carlete
+- Jhean Virginio Perim Pazetto
 - Lucas Fraga de Andrade
